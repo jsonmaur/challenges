@@ -45,5 +45,4 @@ func Encode(decoded string) (string, error) {
 }
 
 func main() {
-	fmt.Println(Encode("aaabbc"))
 }
