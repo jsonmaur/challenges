@@ -4,4 +4,5 @@ Given a string of non-numeric characters, replace repeated characters with the n
 
 ```
 "aaabbccccd" ==> "3a2b4c1d"
+"aaaaaaaaaa" ==> "10a"
 ```
