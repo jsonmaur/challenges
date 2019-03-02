@@ -20,3 +20,7 @@ A collection of coding challenges with solutions written in Go. Some of these ch
 | Challenge Name | Solution Type | Source |
 | :------------- | :-----------: | :----- |
 | [Runtime Encode](runtime-encode) | Algorithmic | Coding Interview |
+
+## License
+
+[MIT](license) by [Jason Maurer](https://maur.co)
