@@ -21,6 +21,7 @@ A collection of coding challenges with solutions written in Go. Some of these ch
 | :------------- | :-----------: | :----- |
 | [Runtime Encode](runtime-encode) | Algorithmic | Coding Interview |
 | [Three Sum](three-sum) | Algorithmic | [LeetCode](https://leetcode.com) |
+| [Longest Non-repeating Substring](longest-nonrepeating-substring) | Algorithmic | [LeetCode](https://leetcode.com) |
 
 ## License
 
