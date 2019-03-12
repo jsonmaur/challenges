@@ -14,6 +14,7 @@ A collection of coding challenges with solutions written in Go. Some of these ch
 | [Largest Palindrome Product](largest-palindrome-product) | Numeric | [Project Euler](https://projecteuler.net) |
 | [Smallest Multiple](smallest-multiple) | Numeric | [Project Euler](https://projecteuler.net) |
 | [Sum Square Difference](sum-square-difference) | Numeric | [Project Euler](https://projecteuler.net) |
+| [Reverse Integer](reverse-integer) | Algorithmic | [LeetCode](https://leetcode.com) |
 
 ## Difficulty: Medium
 
