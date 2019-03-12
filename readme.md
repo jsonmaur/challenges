@@ -7,7 +7,7 @@ A collection of coding challenges with solutions written in Go. Some of these ch
 ## Difficulty: Easy
 
 | Challenge Name | Solution Type | Source |
-| :------------- | :-----------: | :----- |
+| :------------- | :------------ | :----- |
 | [Multiples of 3 and 5](multiples-of-3-and-5) | Numeric | [Project Euler](https://projecteuler.net) |
 | [Even Fibonacci Numbers](even-fibonacci-numbers) | Numeric | [Project Euler](https://projecteuler.net) |
 | [Largest Prime Factor](largest-prime-factor) | Numeric | [Project Euler](https://projecteuler.net) |
@@ -19,10 +19,14 @@ A collection of coding challenges with solutions written in Go. Some of these ch
 ## Difficulty: Medium
 
 | Challenge Name | Solution Type | Source |
-| :------------- | :-----------: | :----- |
+| :------------- | :------------ | :----- |
 | [Runtime Encode](runtime-encode) | Algorithmic | Coding Interview |
 | [Three Sum](three-sum) | Algorithmic | [LeetCode](https://leetcode.com) |
 | [Longest Non-repeating Substring](longest-nonrepeating-substring) | Algorithmic | [LeetCode](https://leetcode.com) |
+
+## Resources
+
+- [Solving Coding Problems With PEDAC](https://medium.com/launch-school/solving-coding-problems-with-pedac-29141331f93f)
 
 ## License
 
